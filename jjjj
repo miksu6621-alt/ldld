@@ -1,4 +1,4 @@
-print('upd2_mobile_centered')
+
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
